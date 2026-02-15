@@ -17,12 +17,6 @@ export default function Home() {
     '/7.jpeg',
     '/8.jpeg',
     '/9.jpeg',
-    '/10.jpeg',
-    '/11.jpeg',
-    '/12.jpeg',
-    '/13.jpeg',
-    '/14.jpeg',
-    '/15.jpeg',
   ];
 
   return (
